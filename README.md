@@ -3,6 +3,6 @@
 ### Aquí se subirán las distintas actividades y ejercicios que vayamos haciendo a lo largo del curso
 
 
-** Actividades Introducción ** | ** Descripción**
+**Actividades Introducción** | **Descripción**
 ------------------------------ | ----------------
 [Actividad 0.5 - Práctica servidor web](/Actividad_Introduccion/) | Aquí se mostrarán tres formas de crear un servidor web de manera sencilla
