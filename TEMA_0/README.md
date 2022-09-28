@@ -4,7 +4,7 @@
 
 
 ## Tres formas de realizar un servidor web
-**Phyton**
+1. **Phyton**
 
 
 Descargamos e instalamos Phyton y desde el Simbolo del sistema escribimos el comando phyton -m http.server 8000
