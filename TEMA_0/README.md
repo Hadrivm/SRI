@@ -7,3 +7,4 @@
 **Phyton**
 
 python -m http.server 8000
+![LOCALHOST](/TEMA_0/localhost.jpeg)
