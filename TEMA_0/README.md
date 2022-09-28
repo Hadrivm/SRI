@@ -11,3 +11,5 @@ Descargamos e instalamos Phyton y desde el Simbolo del sistema escribimos el com
 
 ![CMD](/TEMA_0/cmd.jpg)
 ![LOCALHOST](/TEMA_0/localhost.jpg)
+
+2. **Http server**
