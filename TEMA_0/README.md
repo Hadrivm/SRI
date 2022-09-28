@@ -7,4 +7,5 @@
 **Phyton**
 
 python -m http.server 8000
+![CMD](/TEMA_0/cmd.jpg)
 ![LOCALHOST](/TEMA_0/localhost.jpg)
