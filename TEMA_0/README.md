@@ -14,4 +14,8 @@ Descargamos e instalamos Phyton y desde el Simbolo del sistema escribimos el com
 
 2. **Http server**
 
-[CODIGO GITHUB SERVIDOR](https://github.com/python/cpython/blob/main/Lib/http/server.py)
+[CODIGO GITHUB SERVIDOR 2](https://github.com/python/cpython/blob/main/Lib/http/server.py)
+
+3. **Dummy web server**
+
+[CODIGO GITHUB SERVIDOR 3](https://gist.github.com/kabinpokhrel/6fd1275603e9d5f1e284be717cbd1bff)
