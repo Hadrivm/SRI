@@ -9,4 +9,4 @@
 
 
 
-![IGNACIO](SRI/hola.jfif)
+![IGNACIO](SRI/reina isabel.jpg)
