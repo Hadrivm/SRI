@@ -9,4 +9,4 @@
 
 
 
-![IGNACIO](SRI/reina isabel.jpg)
+![IGNACIO](SRI/canelita.jpeg)
