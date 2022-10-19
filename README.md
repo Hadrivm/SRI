@@ -9,4 +9,4 @@
 
 
 
-![IGNACIO](SRI/canelita.jpeg)
+![IGNACIO](/LOGO/canelita.jpeg)
