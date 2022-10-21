@@ -11,5 +11,4 @@ if [ $? = 0 ]
 		echo "Esta direccion IP ya existe"
 	else
 		echo $IP "     " $domain >> /etc/hosts
-		cat /etc/hosts
 fi;
