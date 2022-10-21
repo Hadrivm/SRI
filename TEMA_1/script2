@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "Introduce la IP"
+read IP
+echo "Introduce el nombre de dominio"
+read domain
+grep -q $IP /etc/hosts.bak
+
+if [ $? = 0 ]
+	then
+		echo "Esta direccion IP ya existe"
+	else
+		echo $IP "     " $domain >> /etc/hosts.bak
+		cat /etc/hosts.bak
+fi;

@@ -1,0 +1,22 @@
+#!/bin/bash
+echo "Introduce el titulo de tu web"
+read titulo
+echo "Introduce la cabecera de tu web"
+read cabeza
+echo "Introduce un breve mensaje para tu web"
+read cuerpo
+
+
+echo "<html>" >> /var/www/html/Script/index.html
+echo "<head>" >> /var/www/html/Script/index.html
+echo "<title>" $titulo "</title>" >> /var/www/html/Script/index.html
+echo "</head>" >> /var/www/html/Script/index.html
+echo "<body>" >> /var/www/html/Script/index.html
+echo "<h1>" $cabeza "</h1>" >> /var/www/html/Script/index.html
+echo $cuerpo >> /var/www/html/Script/index.html
+echo "</body>" >> /var/www/html/Script/index.html
+echo "</html>" >> /var/www/html/Script/index.html
+
+
+
+
