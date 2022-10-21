@@ -2,12 +2,11 @@
 
 echo 'Introduce el puerto'
 read var1
-grep -q $var1 /etc/apache2/ports.bak
+grep -q $var1 /etc/apache2/ports.conf
 
 if [ $? = 0 ]
 	then
 		echo 'Este puerto ya existe'
 	else
-		echo 'Listen' $var1 >> /etc/apache2/ports.bak
-		cat /etc/apache2/ports.bak
+		echo 'Listen' $var1 >> /etc/apache2/ports.conf
 fi;
